@@ -54,7 +54,7 @@ if (array_key_exists('userfile', $_FILES)) {
             ?>
                 <script>
                     alert('Successfully Sent ! Thank you..');
-                    window.location = "http://localhost/cv_firas/web/index.html";
+                    window.location = "http://firasbarrek.me/";
                 </script>
             <?php
 

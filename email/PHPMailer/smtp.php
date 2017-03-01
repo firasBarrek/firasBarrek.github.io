@@ -44,7 +44,7 @@ if (!$mail->send()) {
             alert('Successfully Sent ! Thank you..');
     </script>
     <?php
-    header('Location: ../../index.html');
+    header('Location: ../../');
 	exit;
 }
 ?>
