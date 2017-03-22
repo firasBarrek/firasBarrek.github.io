@@ -4,6 +4,7 @@ User-agent: Googlebot
 Disallow: /js/*
 Disallow: /css/*
 Disallow: /font/*
+Allow: /images/*
 Allow: index.html
 User-agent: Googlebot-News
 Allow: /*
