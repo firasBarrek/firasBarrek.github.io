@@ -12,6 +12,11 @@ html, body{
 body{
 	background:#FFFFFF;
 }
+/*added by me*/
+.team-gd {
+  margin-top: 10px;
+}
+
 /*-- banner --*/
 .banner{
 	background: url(../images/6.jpg) no-repeat 0px 0;
