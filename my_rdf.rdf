@@ -13,7 +13,7 @@
     xmlns:admin="http://webns.net/mvcb/"
     xmlns:rel="http://purl.org/vocab/relationship/">
 
-	<foaf:Person rdf:ID="http://www.firasbarrek.me/my_rdf.rdf">
+	<foaf:Person rdf:ID="firas">
 		<foaf:name>Julien Plu</foaf:name>
 		<foaf:title>M.</foaf:title>
 
